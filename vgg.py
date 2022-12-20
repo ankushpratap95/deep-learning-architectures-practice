@@ -1,10 +1,4 @@
-"""
-A from scratch implementation of the VGG architecture.
 
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-05 Initial coding
-*    2022-12-20 Update comments, code revision, checked still works with latest PyTorch version
-"""
 
 # Imports
 import torch
