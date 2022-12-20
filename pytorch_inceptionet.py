@@ -1,11 +1,3 @@
-"""
-An implementation of GoogLeNet / InceptionNet from scratch.
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-07 Initial coding
-*    2022-12-20 Update comments, code revision, checked still works with latest PyTorch version
-"""
-
 import torch
 from torch import nn
 
