@@ -1,12 +1,3 @@
-"""
-An implementation of EfficientNet CNN architecture.
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2021-02-05 Initial coding
-*    2022-12-20 Update comments, code revision, checked still works with latest PyTorch version
-"""
-
-
 import torch
 import torch.nn as nn
 from math import ceil
